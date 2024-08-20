@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodingWiki/.vs
+/CodingWiki/CodingWiki.Console/bin/Debug/net7.0
+/CodingWiki/CodingWiki.Console/obj
+/CodingWiki/CodingWiki.DataAccess/bin/Debug/net7.0
+/CodingWiki/CodingWiki.DataAccess/obj
+/CodingWiki/CodingWiki.DataAccess.DbFirst/bin/Debug/net7.0
+/CodingWiki/CodingWiki.DataAccess.DbFirst/obj
+/CodingWiki/CodingWiki.Models/bin/Debug/net7.0
+/CodingWiki/CodingWiki.Models/obj
+/CodingWiki/CodingWiki.Web/bin/Debug/net7.0
+/CodingWiki/CodingWiki.Web/obj
+/CodingWiki/CodingWikiWebApp/bin/Debug/net7.0
+/CodingWiki/CodingWikiWebApp/obj
